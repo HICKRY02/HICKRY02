@@ -13,5 +13,6 @@
 ##
 
 <div>
-  <a href="https://discord.gg/678413814034858005" target="_blank"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" target="_blank"/></a>
+  <a href="https://discord.gg/b4fRRD5rK4" target="_blank"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" target="_blank"/></a>
+  <a herf="https://steamcommunity.com/id/HICKRY02/" target="_blank"><img src="https://img.shields.io/badge/Steam-000000?style=for-the-badge&logo=steam&logoColor=white"/></a>
 </div>
