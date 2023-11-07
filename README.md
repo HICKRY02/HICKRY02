@@ -1,6 +1,6 @@
 ## Hi There, Call Me HICKRY02
 
-<div>
+<div style="display: flex">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=HICKRY02&show_icons=true&theme=nightowl&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=HICKRY02&layout=compact&langs_count16&theme=nightowl"/>
 </div>
